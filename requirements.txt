@@ -1,0 +1,25 @@
+
+moviepy==1.0.3
+gtts==2.2.3
+whisper==1.0.0
+streamlit==1.15.0
+numpy
+
+# pip install -r requirements.txt  
+#write this command line terminal to intstall pacakages
+
+
+
+
+
+# torch  # Ensure correct version is installed as per your system (e.g., CPU or CUDA-based)
+# decorator
+
+# Package              Version
+# -------------------- ---------
+# gtts                 2.2.3
+# moviepy              1.0.3
+# streamlit            1.15.0
+# whisper              1.0.0
+
+
